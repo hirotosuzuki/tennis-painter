@@ -1,0 +1,13 @@
+# This file contains values from Cookiecutter
+
+default_context:
+  project_name: "tennis-painter"
+  project_description: "Awesome `tennis-painter` is a Python cli/package created with https://github.com/TezRomacH/python-package-template"
+  organization: "TennisVision"
+  license: "MIT"
+  minimal_python_version: 3.9
+  github_name: "hirotosuzuki"
+  email: "tennis.vision.sfp@gmail.com"
+  version: "0.1.0"
+  line_length: "120"
+  create_example_template: "cli"
