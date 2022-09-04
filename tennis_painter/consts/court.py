@@ -1,0 +1,16 @@
+from typing import Final
+
+SINGLES_COURT_WIDTH: Final[float] = 8.23
+SINGLES_COURT_WIDTH_HALF: Final[float] = SINGLES_COURT_WIDTH / 2
+
+DOUBLES_COURT_WIDTH: Final[float] = 10.97
+DOUBLES_COURT_WIDTH_HALF: Final[float] = DOUBLES_COURT_WIDTH / 2
+
+COURT_HIGHT: Final[float] = 23.77
+COURT_HIGHT_HALF: Final[float] = COURT_HIGHT / 2
+
+SERVISE_BOX_HIGHT: Final[float] = 12.8
+SERVISE_BOX_HIGHT_HALF: Final[float] = SERVISE_BOX_HIGHT / 2
+
+NET_HEIGHT_CENTER: Final[float] = 0.94
+NET_HEIGHT_CORNER: Final[float] = 1.07
